@@ -1,0 +1,33 @@
+body
+{
+	margin:0;
+	padding:0;
+	font-family: "comic sans ms", times, Serif;
+}
+.head-box
+{
+	background-image:url("../images/head-box.jpg");
+	color:#FFF;
+	height:30px;
+	padding:10px 10px 10px 10px;
+	box-shadow: 0 0 30px 0 background;
+	margin-bottom:0;
+	z-index:10;
+}
+.head-box ul
+{
+	display:inline;
+}
+.head-box ul li
+{
+	display: inline;
+	margin-right: 10px;
+}
+.section1-box
+{
+	margin:0;
+	background-image:url("../images/section1-box.jpg");
+	padding:10px 10px 10px 10px;
+	z-index: 0;
+	color:#FFF;
+}
